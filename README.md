@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with AI and Blockchain
 - 💬 Ask me about Tech, Web Development, DevOps, Hardware, Networking 
 - 📫 How to reach me: waleedi825@gmail.com
-- ⚡ Fun fact: I play competitive Cricketer 🏏
+- ⚡ Fun fact: I play competitive Crickete 🏏
