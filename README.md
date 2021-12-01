@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🎓 I’m currently studying Software Engineering
-- 🌱 I’m currently learning Blockchain & AI 🧐
+- 🌱 I’m currently learning Blockchain & AI 🤓
 - 👯 I’m looking to collaborate on ML pojrects
 - 🤔 I’m looking for help with AI and Blockchain
 - 💬 Ask me about Tech, Web Development, DevOps, Hardware, Networking 
