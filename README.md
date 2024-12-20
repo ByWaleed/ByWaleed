@@ -6,4 +6,4 @@
 - ⚡ Fun fact: I play competitive Cricket (2021 & 2022 Champions 🥇)
 - 📫 How to reach me: hi@waleedislam.co.uk
 
-<img src="year-review/2024.png" alt="2024 Year in Review" style="max-width: 500px;">
+<img src="year-review/2024.png" alt="2024 Year in Review" style="max-width: 600px;">
